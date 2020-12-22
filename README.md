@@ -18,7 +18,7 @@
 
 
 
-[网易云精选歌曲](https://popring.github.io/static-pages/housework/)
+[网易云精选歌曲](https://popring.github.io/static-pages/housework/dist/)
 
 > JavaScript 课程结课设计
 
